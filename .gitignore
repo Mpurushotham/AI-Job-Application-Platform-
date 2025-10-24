@@ -1,0 +1,52 @@
+# API Keys and Environment Variables
+config/apiKeys.js
+.env
+.env.local
+.env.production
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Operating System Files
+Thumbs.db
+.DS_Store
+
+# User data (if storing locally)
+data/
+*.db
+*.sqlite
+
+# Sensitive information
+secrets/
+credentials/
+*.key
+*.pem

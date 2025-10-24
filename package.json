@@ -1,0 +1,41 @@
+{
+  "name": "ai-job-hunter",
+  "version": "1.0.0",
+  "description": "AI-powered job application platform that automatically finds, matches, and applies to jobs",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8080 -o",
+    "deploy": "git add . && git commit -m 'Deploy updates' && git push origin main",
+    "test": "echo 'No tests configured yet'",
+    "validate": "echo 'Validating configuration...' && node scripts/validate-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ai-job-hunter.git"
+  },
+  "keywords": [
+    "job-search",
+    "ai",
+    "automation",
+    "career",
+    "job-application",
+    "resume",
+    "claude",
+    "machine-learning",
+    "job-board"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-job-hunter/issues"
+  },
+  "homepage": "https://yourusername.github.io/ai-job-hunter",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}

@@ -1,0 +1,66 @@
+MIT License
+
+Copyright (c) 2025 AI Job Hunter
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY LICENSES
+
+This software uses the following third-party libraries and services:
+
+1. React (MIT License)
+   Copyright (c) Meta Platforms, Inc. and affiliates.
+
+2. Tailwind CSS (MIT License)
+   Copyright (c) Tailwind Labs, Inc.
+
+3. Lucide Icons (ISC License)
+   Copyright (c) Lucide Contributors
+
+4. Anthropic Claude API
+   Subject to Anthropic's Terms of Service
+   https://www.anthropic.com/legal/terms
+
+5. Adzuna API
+   Subject to Adzuna's Terms of Service
+   https://developer.adzuna.com/terms
+
+6. RapidAPI / JSearch
+   Subject to RapidAPI's Terms of Service
+   https://rapidapi.com/terms/
+
+---
+
+DISCLAIMER
+
+This software is provided for personal use only. Users are responsible for:
+- Complying with all applicable laws and regulations
+- Respecting the Terms of Service of job boards and APIs
+- Ensuring accuracy of information submitted in job applications
+- Not exceeding API rate limits
+- Protecting their API keys and credentials
+
+The authors and contributors are not responsible for:
+- Job application outcomes
+- API costs incurred
+- Violations of third-party terms
+- Data loss or system failures
+- Any damages arising from the use of this software
